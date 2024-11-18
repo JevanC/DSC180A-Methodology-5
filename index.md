@@ -1,4 +1,3 @@
-# Your Name and Email
 Jevan Chahal
 Email: j2chahal@ucsd.edu
 
